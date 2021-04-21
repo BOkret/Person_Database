@@ -1,4 +1,4 @@
-#PersonDatabase
+# PersonDatabase
 
 A simple database which stores information about people(name, surname and their id). The app stores data in Person[] array. 
 
